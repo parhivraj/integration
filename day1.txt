@@ -1,0 +1,109 @@
+teach.edureka.co
+1.Introduction to Edureka LMS 
+Basic Requiremets 
+Linux ......
+https://killercoda.com/pawelpiwosz/course/linuxFundamentals
+
+Devops Module 1   
++++++++++++++++++++++++++++++++++
+Introduction to devops
+IAC ----
+Beifits Workig i Devops
+Devops Lifecycle
+Devops Stges
+Devops Delivery Pipelie 
+
+
+Waterfall model 
+Agile Metodology
+
+Wterfll Model VS gile Metodology
+Limitios of Agile Methodology
+
+developmet to opertios need frequent Changes 
+opertios team need more stability
+
+
+
+
+solution devops
+Developmet with out devops
+
+
+
+
+Wterfallmodel Calleges
+what need to be done 
+
+
+
+what is devops .
+What is Not devops
+Benifits of devops
+
+
+
+Skills of devops engineer
+
+
+Devops Lifecycle -------  plan , code, Build ,test , release, Deploy , Operate , moitor
+
+
+
+
+Devops STAGES -----VCS cotinious Coding , Continious Integrtion ,    Testing , Releasing , Deplyment(continious virtualisation, Cofigurion Manager),Countinious Monitoring  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+parthivnandu2@gmail.com
+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
+
+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
+
+Lab Setup 
+1. Down load Oracle Virtual Box 
+https://www.virtualbox.org/wiki/Downloads
+
+2. Install Oracle Virtual Box 
+
+3. Download Linux OS ubuntu Latest
+https://ubuntu.com/download/server
+
+ubuntu-22.04-live-server-amd64.iso
+
+
+4 Install Ubuntu Server  --- 10 minutes for complete installation 
+
+5 Create ova file by Exporting to OVA 
+
+6 Reuse the OVA and change network settings
+
+
+
+7 Download git  terminal on windows 
+
+Acees the Machine from git  for Lab Works 
+
+
+
+
+

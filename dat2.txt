@@ -1,0 +1,91 @@
+
+
+
+created aws account 
+login to ec2 console 
+created keypair devops   .pem 
+
+downloaded 
+
+
+git bash  .......
+
+using gibash terminal 
+
+changed the permission   
+
+
+chmod 400 devopsnew.pem 
+
+
+ssh -i "devopsnew.pem" ubuntu@ec2-54-237-250-172.compute-1.amazonaws.com
+
+
+
+
+Linux 
+
+
+
+
+chmod 400 devops.pem 
+
+ssh -i "devopsnew.pem" ubuntu@ec2-54-237-250-172.compute-1.amazonaws.com
+
+
+
+Mac 
+
+
+mac terminal  
+
+
+download .pem ,  change the permission 
+
+
+cd /User/name/Downloads 
+
+ssh -i "devopsnew.pem" ubuntu@ec2-54-237-250-172.compute-1.amazonaws.com
+
+
+
+
+install git
+
+
+git init ---initiate git 
+git status ---- to check the repsitory status 
+git add ........to add files from working area to Staging Area 
+
+git commit ----- moving the files to commited area 
+
+git log ..........
+
+
+
+git config --global user.email "dev1xample.com"
+git config --global user.name "dev1"
+
+
+git branch ------ list the branches 
+git branch <new bracch name>  ---- it will create new brach 
+
+git checkout to swich to diffrent branches 
+
+
+git checkout -b newbranch
+
+
+
+
+git push ------push the changes to remote repository 
+git pull ----  get the changes from remote repository 
+git fetch ---  get only the changes from remote repository 
+git remote add  --- to add remote repositor with local 
+git clone ---- clone a remote repository 
+
+
+
+
+
+
